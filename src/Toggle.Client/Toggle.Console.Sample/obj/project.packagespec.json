@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Console.Sample/Toggle.Console.Sample.csproj",
+    "projectName": "Toggle.Console.Sample",
+    "projectPath": "/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Console.Sample/Toggle.Console.Sample.csproj",
+    "outputPath": "/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Console.Sample/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/Toggle.Client.csproj": {
+            "projectPath": "/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/Toggle.Client.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

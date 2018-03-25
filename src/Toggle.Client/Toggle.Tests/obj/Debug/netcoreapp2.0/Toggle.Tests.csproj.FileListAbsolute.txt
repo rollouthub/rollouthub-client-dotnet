@@ -1,0 +1,15 @@
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/bin/Debug/netcoreapp2.0/Toggle.Tests.deps.json
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/bin/Debug/netcoreapp2.0/Toggle.Tests.runtimeconfig.json
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/bin/Debug/netcoreapp2.0/Toggle.Tests.runtimeconfig.dev.json
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/bin/Debug/netcoreapp2.0/Toggle.Tests.dll
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/bin/Debug/netcoreapp2.0/Toggle.Tests.pdb
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/obj/Debug/netcoreapp2.0/Toggle.Tests.csproj.CoreCompileInputs.cache
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/obj/Debug/netcoreapp2.0/Toggle.Tests.AssemblyInfoInputs.cache
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/obj/Debug/netcoreapp2.0/Toggle.Tests.AssemblyInfo.cs
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/obj/Debug/netcoreapp2.0/Toggle.Tests.dll
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/obj/Debug/netcoreapp2.0/Toggle.Tests.pdb
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/bin/Debug/netcoreapp2.0/Toggle.Client.dll
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Tests/bin/Debug/netcoreapp2.0/Toggle.Client.pdb

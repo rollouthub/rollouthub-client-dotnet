@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/Toggle.Client.csproj",
+    "projectName": "Toggle.Client",
+    "projectPath": "/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/Toggle.Client.csproj",
+    "outputPath": "/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "Microsoft.CSharp": {
+          "target": "Package",
+          "version": "[4.4.0, )"
+        },
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.1, )",
+          "autoReferenced": true
+        },
+        "System.Dynamic.Runtime": {
+          "target": "Package",
+          "version": "[4.3.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

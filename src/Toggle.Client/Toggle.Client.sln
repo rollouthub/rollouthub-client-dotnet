@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toggle.Client", "Toggle.Client\Toggle.Client.csproj", "{55DA903E-1FB6-4554-93D2-5D58E0E95E86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toggle.Tests", "Toggle.Tests\Toggle.Tests.csproj", "{221626BC-AE01-4773-8CB4-1BC1F29B49BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toggle.Console.Sample", "Toggle.Console.Sample\Toggle.Console.Sample.csproj", "{A87D23F3-9567-469D-A3A3-271C70BB4DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55DA903E-1FB6-4554-93D2-5D58E0E95E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DA903E-1FB6-4554-93D2-5D58E0E95E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DA903E-1FB6-4554-93D2-5D58E0E95E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DA903E-1FB6-4554-93D2-5D58E0E95E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221626BC-AE01-4773-8CB4-1BC1F29B49BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221626BC-AE01-4773-8CB4-1BC1F29B49BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221626BC-AE01-4773-8CB4-1BC1F29B49BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221626BC-AE01-4773-8CB4-1BC1F29B49BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87D23F3-9567-469D-A3A3-271C70BB4DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87D23F3-9567-469D-A3A3-271C70BB4DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87D23F3-9567-469D-A3A3-271C70BB4DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87D23F3-9567-469D-A3A3-271C70BB4DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

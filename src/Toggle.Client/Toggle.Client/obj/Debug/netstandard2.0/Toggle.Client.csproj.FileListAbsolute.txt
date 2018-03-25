@@ -1,0 +1,8 @@
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/bin/Debug/netstandard2.0/Toggle.Client.deps.json
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/bin/Debug/netstandard2.0/Toggle.Client.dll
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/bin/Debug/netstandard2.0/Toggle.Client.pdb
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/obj/Debug/netstandard2.0/Toggle.Client.csproj.CoreCompileInputs.cache
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/obj/Debug/netstandard2.0/Toggle.Client.AssemblyInfoInputs.cache
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/obj/Debug/netstandard2.0/Toggle.Client.AssemblyInfo.cs
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/obj/Debug/netstandard2.0/Toggle.Client.dll
+/Users/ryantomlinson/Development/toggle-client-dotnet/src/Toggle.Client/Toggle.Client/obj/Debug/netstandard2.0/Toggle.Client.pdb
